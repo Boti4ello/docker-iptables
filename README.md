@@ -1,2 +1,2 @@
 # docker-iptables
-Protecting docker containers with iptaless
+Protecting docker containers with iptabless
